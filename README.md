@@ -5,7 +5,7 @@ Een duidelijke schets van een oplossing voor PlantSwap Amsterdam.
 Bewoners van Amsterdam-Oost. (voornamelijk jongeren)
 
 ## User Story
-"Als buurtbewoner van Amsterdam Oost wil ik een stekje kunnen toevoegen met behulp van een formulier"
+* "Als buurtbewoner van Amsterdam Oost wil ik een stekje kunnen toevoegen met behulp van een formulier"
 
 ## Wireflow!
 **Schets Wireflow**
