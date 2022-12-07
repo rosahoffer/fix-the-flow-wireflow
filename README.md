@@ -1,20 +1,20 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# Fix The Wireflow
+Een duidelijke schets van een oplossing voor PlantSwap Amsterdam.
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+Bewoners van Amsterdam-Oost. (voornamelijk jongeren)
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+"Als buurtbewoner van Amsterdam Oost wil ik een stekje kunnen toevoegen met behulp van een formulier"
 
-## Wireflow
-<!-- Toon de wireflow -->
+## Wireflow!
+**Schets Wireflow**
+![schets-fix-the-wireflow](https://user-images.githubusercontent.com/112861375/206168428-8c0f3b7d-085b-435a-b771-4f494ddfdaf2.png)
 
- 
+**Schets Breakdown**
+![breakdown-fix-te-wireflow](https://user-images.githubusercontent.com/112861375/206168405-556a5106-7115-421e-9fc5-34f3d7913355.png)
 
-## Licentie
+ ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
