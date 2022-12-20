@@ -7,9 +7,9 @@ Bewoners van Amsterdam-Oost. (voornamelijk jongeren)
 ## User Story
 * "Als buurtbewoner van Amsterdam Oost wil ik een stekje kunnen toevoegen met behulp van een formulier"
 
-## Wireflow!
+## Wireflow
 **Schets Wireflow**
-![schets-fix-the-wireflow](https://user-images.githubusercontent.com/112861375/206168428-8c0f3b7d-085b-435a-b771-4f494ddfdaf2.png)
+![wireflow-schets-1-aangepast](https://user-images.githubusercontent.com/112861375/208654300-5118019c-1ee7-4658-a08a-038c564ae0ee.png)
 
 **Schets Breakdown**
 ![breakdown-fix-te-wireflow](https://user-images.githubusercontent.com/112861375/206168405-556a5106-7115-421e-9fc5-34f3d7913355.png)
